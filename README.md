@@ -1,4 +1,4 @@
-**Secure Chat App with Cryptography**
+#Secure Chat App with Cryptography
 
 *Author: Dostonbek Toirov*
 
