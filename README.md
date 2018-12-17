@@ -4,7 +4,7 @@
 
 ![Demo Image](demo.png)
 
-**Before Running the App**
+### Before Running the App
 
 Open a terminal and go to the folder where the app is located by running:
 
