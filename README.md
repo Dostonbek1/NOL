@@ -1,6 +1,8 @@
 **Secure Chat App with Cryptography**
 *Author: Dostonbek Toirov*
 
+![Demo Image](demo.png)
+
 **Before Running the App**
 
 Open a terminal and go to the folder where the app is located by running:
