@@ -20,7 +20,7 @@ If this does not work in your case, then you can continue without having to be i
 
 `pip install -r requirements.txt`
 
-**Running the app**
+### Running the app
 
 Now it is time to start our app. Simply run:
 
@@ -30,7 +30,7 @@ This will start the app on `localhost:5000` and you can view the app running thr
 
 On the welcome page, there are two buttons showing two options. 
 
-**Start a New Chat**
+### Start a New Chat
  - To start a new chat we can choose "Start Chat**. 
  - On the pop-up, we need to put a username we want (maximum 9 characters) and press "Generate Key" to generate a new room key. 
  - Then we can press "Start Chat". It will take us to a new page with where we can start messaging. 
@@ -38,7 +38,7 @@ On the welcome page, there are two buttons showing two options.
 
 This should display the message in the field top of the message box with a sender's name to the left. For now, it is only you in the chat room. 
 
-**Join Chat**
+### Join Chat
  - To have other 'chatters' in this room, simply copy the chat room key to the bottom of the message box. 
  - Open a new tab in the browser and go to `localhost:5000`. 
  - Press "Join Chat". 
@@ -48,7 +48,7 @@ This should display the message in the field top of the message box with a sende
 
 Now you can start having a chat between the two 'chatters'. 
 
-**To view the cryptography happening**
+### To view the cryptography happening
  - Right-click on the browser page.
  - Choose "Inspect element"
  - From a set of tabs, choose "Console".
